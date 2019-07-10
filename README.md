@@ -1,3 +1,3 @@
 # Sim
 Link prediction algorithm for PPI networks
-Change the name of PPI network 
+Modify and replace the network name in the code to get the new network algorithm
